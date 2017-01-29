@@ -10,21 +10,21 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 02 | 1/24 | The _pandas_ Library| | |
 | 03 | 1/26 | Statistics 1 | | |
 | 04 | 1/31 | Statistics 2/Advanced Ploting | | |
-| 05 | 2/2 | Supervised Learning - Decision Trees | Unit Project 1 | |
-| 06 | 2/7 | Supervised Learning - Regression & Classification | | Unit Project 1 |
-| 07 | 2/9 | Supervised Learning - Linear Regression | | |
-| 08 | 2/14 | Supervised Learning - Logistic Regression | Final Project 1 | |
-| 09 | 2/16 | Supervised Learning - Other Methods | Unit Project 2| |
-| 10 | 2/21 | Supervised Learning - Other Methods | | Final Project 1 |
-| 11 | 2/23 | Supervised Learning - Natural Language Processing | | Unit Project 2 |
-| 12 | 2/28 | Unsupervised Learning - Clustering | | |
-| 13 | 3/2 | Feature Engineering & Dimensionality Reduction | Final Project 2 | |
-| 14 | 3/7 | Reinforcement Learning | Unit Project 3 | |
-| 15 | 3/9 | Time Series Data | | Final Project 2 |
-| 16 | 3/14 | TensorFlow Deep Learning | | Unit Project 3 |
-| 17 | 3/16 | Database Technologies | | |
-| 18 | 3/21 | Where to go next | | |
-| 19 | 3/23 | Flexible Class | | |
+| 05 | 2/2  | Scikit-learn, Evaluation and Data Splitting & Cross Validation| Unit Project 1 ||
+| 06 | 2/7 | Supervised Learning - Decision Trees | Unit Project 1 | |
+| 07 | 2/9 | Supervised Learning - Regression & Classification | | Unit Project 1 |
+| 08 | 2/14 | Supervised Learning - Linear Regression | | |
+| 09 | 2/16 | Supervised Learning - Logistic Regression | Final Project 1 | |
+| 10 | 2/21 | Supervised Learning - Other Methods | Unit Project 2| |
+| 11 | 2/23 | Supervised Learning - Other Methods | | Final Project 1 |
+| 12 | 2/28 | Supervised Learning - Natural Language Processing | | Unit Project 2 |
+| 13 | 3/2 | Unsupervised Learning - Clustering | | |
+| 14 | 3/7 | Feature Engineering & Dimensionality Reduction | Final Project 2 | |
+| 15 | 3/9 | Reinforcement Learning | Unit Project 3 | |
+| 16 | 3/14 | Time Series Data | | Final Project 2 |
+| 17 | 3/16 | TensorFlow Deep Learning | | Unit Project 3 |
+| 18 | 3/21 | Database Technologies | | |
+| 19 | 3/23 | Where to go next | | |
 | 20 | 3/28 | Final Project Presentations | Final Project 3| Final Project 3 |
 
 ## Your Team
