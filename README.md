@@ -11,8 +11,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 03 | 1/26 | Statistics 1 | | |
 | 04 | 1/31 | Statistics 2/Advanced Ploting | | |
 | 05 | 2/2  | Scikit-learn, Evaluation and Data Splitting & Cross Validation| Unit Project 1 ||
-| 06 | 2/7 | Supervised Learning - Decision Trees | Unit Project 1 | |
-| 07 | 2/9 | Supervised Learning - Regression & Classification | | Unit Project 1 |
+| 06 | 2/7 | Supervised Learning - Decision Trees | | Unit Project 1 |
+| 07 | 2/9 | Supervised Learning - Regression & Classification | | |
 | 08 | 2/14 | Supervised Learning - Linear Regression | | |
 | 09 | 2/16 | Supervised Learning - Logistic Regression | Final Project 1 | |
 | 10 | 2/21 | Supervised Learning - Other Methods | Unit Project 2| |
@@ -24,7 +24,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 16 | 3/14 | Time Series Data | | Final Project 2 |
 | 17 | 3/16 | TensorFlow Deep Learning | | Unit Project 3 |
 | 18 | 3/21 | Database Technologies | | |
-| 19 | 3/23 | Where to go next | | |
+| 19 | 3/23 | Where to go next | | Unit Project 4 |
 | 20 | 3/28 | Final Project Presentations | Final Project 3| Final Project 3 |
 
 ## Your Team
